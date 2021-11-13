@@ -137,7 +137,7 @@ body {
         justify-content: space-between;
         flex-wrap: wrap;
     }
-    
+
     .footer {
         display: flex;
         padding-right: min(104px, 8%);
@@ -154,7 +154,7 @@ body {
         margin-right: 14%;
         cursor: pointer;
     }
-    
+
     .footer-icons {
         font-size: 18px;
         width: 80px;
