@@ -19,3 +19,4 @@ jobs:
           heroku_email: "vitaly.solntsev@yandex.ru"
           healthcheck: "https://test4-solntsev.herokuapp.com/health/example.txt"
           checkstring: "ok"
+      - run: npm test
